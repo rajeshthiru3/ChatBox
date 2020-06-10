@@ -1,0 +1,24 @@
+{
+    "buttongroup": {
+        "default": ["Latest Courses", "Latest Events", "Gallery", "Services", "Contact Us"],
+        "Latest Courses": ["Data Science", ".NET", "Robotics Process Automation", "Cloud computing", "Data Warehousing", "Java", "Database Administration", "DevOps", "Digital Marketing", "Embedded Training", "Hardware and Networking", "Mobile Application Development", "Software Development", "Scripting Training", "Software Testing"],
+        "Latest Events": ["Arduino Hackathon", "Raspberry Pi Hackathon", "Robo Race", "Robo War", "Smart Vehicles", "Automate"],
+        "Services": ["Smart Home Automation", "Power Quality Auditing", "Smart Farming installation", "Troubleshoot", "Training & Mentoring", "Internships & Workshops", "Special Purpose Machines", "Guided vehicle", "6-axis Robots", "Biomedical Device", "Industrial automation", "Electrical service", "Solar service", "Electrical Equipment’s", "Computer Numerical Control - CNC"]
+    },
+    "links": {
+        "Gallery": "https://www.google.com"
+    },
+    "popups": {
+        "Contact Us": {
+            "id": "contactus",
+            "html": "<a href='https://www.google.com'><img src='./img/gmail.png' class='socialicon' /></a><a href='https://www.google.com'><img src='./img/facebook.png' class='socialicon' /></a><a href='https://www.google.com'><img src='./img/linkedin.png' class='socialicon' /></a><a href='https://www.google.com'><img src='./img/youtube.png' class='socialicon' /></a><a href='https://www.google.com'><img src='./img/instagram.png' class='socialicon' /></a>"
+        }
+    },
+    "replies": {
+        "default": "Hi, how can I help you?",
+        "Latest Courses": "Here are the courses...",
+        "Latest Events": "Here are the events...",
+        "Services": "Here are the services...",
+        "Gallery": "Data not available"
+    }
+}
